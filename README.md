@@ -8,17 +8,17 @@ To analyze road accident data using Power BI in order to identify accident trend
 
 
 ## Steps in Project;
--Requirement Gathering
--Stakeholder in Project
--Raw Data Overview
--Connecting Data with Power Bi
--Data Cleaning
--Data Processing
--Data Modelling
--Background Design in Power Bi
--Data Visualisation/ Chart Design
--Report/Dashboard Building
--Insights
+-Requirement Gathering.
+-Stakeholder in Project.
+-Raw Data Overview.
+-Connecting Data with Power BI.
+-Data Cleaning.
+-Data Processing.
+-Data Modelling.
+-Background Design in Power BI.
+-Data Visualisation/ Chart Design.
+-Report/Dashboard Building.
+-Insights.
 
 
 ## Requirement Gathering;
