@@ -21,10 +21,6 @@ Report/Dashboard Building
 Insights
 
 
-## Image of Dashboard:
-<a href = "https://github.com/priyanshu0717/Road-Accident-Analysis-Dashboard/blob/main/Screenshot%202026-02-05%20221551.png">Image</a>
-
-
 ## Requirement Gathering;
 Client wants to create a Road Accident Dashboard for year 2021 & 2022 so that they can have insights on below requirements;
 Primary KPI: Total Casualties and Total Accidents values for Current Year and YOY growth
@@ -34,6 +30,11 @@ Monthly trend showing comparison of casualties for current year and previous yea
 Casualties by road type for current year
 current year casualties by area/location& day and night
 Total Casualties and Total Accidents by location
+
+
+## Dashboard:
+<img width="1282" height="719" alt="Screenshot 2026-02-05 221551" src="https://github.com/user-attachments/assets/00963569-a39a-4cbb-8725-301d53dfb0d7" />
+
 
 
 ## Project Link:
