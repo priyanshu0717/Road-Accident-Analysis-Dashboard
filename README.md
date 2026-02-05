@@ -1,2 +1,10 @@
-# Road-Accident-Analysis-Dashboard
-Designed an interactive Power BI dashboard to analyze road accident data and identify patterns related to severity, location, time, and vehicle type.  Performed data cleaning, transformation, and modeling using Power Query and DAX. Created KPIs such as total accidents, fatalities, serious vs minor cases, and year-wise trends.
+# Road Accident Analysis using Power BI
+
+## Project Objective;
+To analyze road accident data using Power BI in order to identify accident trends, severity patterns, and high-risk locations, enabling data-driven insights for improving road safety.
+
+## Dataset Used: 
+<a href = "https://docs.google.com/spreadsheets/d/1CvpMICrVJSqll-kdBm-WFVMlHFf5Sfx-/edit?gid=1681341173#gid=1681341173"> Datasets</a>
+
+## Project Link:
+<a href = "https://github.com/priyanshu0717/Road-Accident-Analysis-Dashboard/blob/main/RoadAccidentAnalysisProject.pbix">
