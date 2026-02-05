@@ -8,28 +8,28 @@ To analyze road accident data using Power BI in order to identify accident trend
 
 
 ## Steps in Project;
-Requirement Gathering
-Stakeholder in Project
-Raw Data Overview
-Connecting Data with Power Bi
-Data Cleaning
-Data Processing
-Data Modelling
-Background Design in Power Bi
-Data Visualisation/ Chart Design
-Report/Dashboard Building
-Insights
+-Requirement Gathering
+-Stakeholder in Project
+-Raw Data Overview
+-Connecting Data with Power Bi
+-Data Cleaning
+-Data Processing
+-Data Modelling
+-Background Design in Power Bi
+-Data Visualisation/ Chart Design
+-Report/Dashboard Building
+-Insights
 
 
 ## Requirement Gathering;
-Client wants to create a Road Accident Dashboard for year 2021 & 2022 so that they can have insights on below requirements;
-Primary KPI: Total Casualties and Total Accidents values for Current Year and YOY growth
-Primary KPI: Total Casualties by Accident Severity for Current Year & YOY growth
-Secondary KPI’s : Total Casualties with respect to vehicle type for current year
-Monthly trend showing comparison of casualties for current year and previous year
-Casualties by road type for current year
-current year casualties by area/location& day and night
-Total Casualties and Total Accidents by location
+-Client wants to create a Road Accident Dashboard for year 2021 & 2022 so that they can have insights on below requirements;
+-Primary KPI: Total Casualties and Total Accidents values for Current Year and YOY growth
+-Primary KPI: Total Casualties by Accident Severity for Current Year & YOY growth
+-Secondary KPI’s : Total Casualties with respect to vehicle type for current year
+-Monthly trend showing comparison of casualties for current year and previous year
+-Casualties by road type for current year
+-Current year casualties by area/location& day and night
+-Total Casualties and Total Accidents by location
 
 
 ## Dashboard:
