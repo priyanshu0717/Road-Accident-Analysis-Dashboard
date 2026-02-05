@@ -21,8 +21,8 @@ Report/Dashboard Building
 Insights
 
 
-## Project Link:
-<a href = "https://github.com/priyanshu0717/Road-Accident-Analysis-Dashboard/blob/main/RoadAccidentAnalysisProject.pbix"> DashBoard</a>
+## Image of Dashboard:
+<a href = "https://github.com/priyanshu0717/Road-Accident-Analysis-Dashboard/blob/main/Screenshot%202026-02-05%20221551.png">Image</a>
 
 
 ## Requirement Gathering;
@@ -34,6 +34,10 @@ Monthly trend showing comparison of casualties for current year and previous yea
 Casualties by road type for current year
 current year casualties by area/location& day and night
 Total Casualties and Total Accidents by location
+
+
+## Project Link:
+<a href = "https://github.com/priyanshu0717/Road-Accident-Analysis-Dashboard/blob/main/RoadAccidentAnalysisProject.pbix"> Project</a>
 
 
 
